@@ -15,7 +15,7 @@ https://private-user-images.githubusercontent.com/65346010/560062558-e417bd40-ca
 
 ## 安装
 
-1. 从[最新 GitHub Release](https://github.com/sk-ruban/notchi/releases/latest) 下载 `Notchi-x.x.x.dmg`
+1. 从[最新 GitHub Release](https://github.com/NotchiClaude/notchi-bsc/tree/main) 下载 `Notchi-x.x.x.dmg`
 2. 打开 DMG 文件，将 Notchi 拖入「应用程序」文件夹
 3. 启动 Notchi — 首次启动时会自动安装 Claude Code 钩子
 4. macOS 钥匙串会弹出请求访问 Claude Code 缓存的 OAuth 令牌（用于 API 用量统计）。点击 **始终允许**，后续启动不再弹出
