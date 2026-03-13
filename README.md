@@ -1,5 +1,5 @@
 # Notchi
-0xaa1e1b87dcd5adafce1bd3afc44a6de693997777
+
 FLAP 3%
 一款 macOS 刘海屏伴侣应用，能够实时响应 Claude Code 的活动。
 
